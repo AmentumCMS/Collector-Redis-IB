@@ -1,4 +1,4 @@
 registry1.dso.mil:
-    images-by-tag-regex:
-        ironbank/opensource/redis/redis7: (^7.4.2)
-        ironbank/bitnami/redis: (^7.4.2)
+  images-by-tag-regex:
+    ironbank/opensource/redis/redis7: ^7.4.8$
+    ironbank/bitnami/redis: ^8.4.0$
